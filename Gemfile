@@ -51,4 +51,6 @@ gem 'paperclip'
 gem 'kaminari'
 gem 'compass-rails', '~> 2.0'
 gem 'sprockets', '2.11.0'
-
+gem 'therubyracer'
+gem 'twitter-bootstrap-rails'
+gem 'bootstrap-material-design', '0.1.4'
